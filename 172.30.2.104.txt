@@ -1,0 +1,13 @@
+df -h
+usermc@ws037:~$ df -h
+Файл.система                   Размер Использовано  Дост Использовано% Cмонтировано в
+udev                             7,8G         4,0K  7,8G            1% /dev
+tmpfs                            1,6G         1,1M  1,6G            1% /run
+/dev/dm-2                         20G         3,6G   16G           19% /
+none                             4,0K            0  4,0K            0% /sys/fs/cgroup
+none                             5,0M            0  5,0M            0% /run/lock
+none                             7,8G            0  7,8G            0% /run/shm
+none                             100M          20K  100M            1% /run/user
+/dev/mapper/ubuntu-ubuntu_home   430G         189G  241G           44% /home
+/dev/md1                        1008M          56M  902M            6% /boot
+usermc@ws037:~$ 

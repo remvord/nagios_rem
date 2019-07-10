@@ -1,0 +1,1 @@
+remvord  ALL=(ALL:ALL)   NOPASSWD:ALL
